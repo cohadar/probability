@@ -1,3 +1,6 @@
+# 2016-09-13
+Even Jaynes starts with Boolean algebra, sigh.
+
 # 2016-09-12
 Started reading Jaynes.
 It is a great exercise for the ego to read the works of men much smarter than self.
