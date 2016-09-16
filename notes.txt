@@ -1,0 +1,14 @@
+Bayesian apparatus:
+	* model
+	* sample space
+	* hypothesis space
+	* prior probabilities
+	* sampling distribution
+
+Principle of maximum entropy: (no model, just data)
+	* sample space
+
+If we hope to detect any phenomenon, than we must use a model that at least allows the possibility that it may exist.
+A false premise built into a model which is never questioned cannot be removed by any amount of new data.
+
+No argument is stronger than the premises that go into it.
