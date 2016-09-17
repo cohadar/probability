@@ -1,3 +1,15 @@
+# 2016-09-15
+Can't wait to see how Jaynes describes/generalizes the relation of probability with
+four laws of logic
+rules of inference
+rules of replacement
+
+# 2016-09-14
+Modus ponens
+
+# 2016-09-13
+Even Jaynes starts with Boolean algebra, sigh.
+
 # 2016-09-12
 Started reading Jaynes.
 It is a great exercise for the ego to read the works of men much smarter than self.
