@@ -2,3 +2,5 @@ Books with worked out numerical examples:
 	Bayesian Spectrum Analysis and Parameter Estimation (Bretthorst, 1988)
 	Maximum Entropy in Action (Buck and Macaulay, 1991)
 	Data Analysis - A Bayesian Tutorial (Sivia, 1996)
+
+Logic for Mathematicians (Hamilton, 1988)
