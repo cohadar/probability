@@ -12,3 +12,16 @@ If we hope to detect any phenomenon, than we must use a model that at least allo
 A false premise built into a model which is never questioned cannot be removed by any amount of new data.
 
 No argument is stronger than the premises that go into it.
+
+The Basic Desiderata:
+	1  Degrees of plausibility are represented by real numbers
+		infinitesimal continuity is respected
+		and p(A|BC) is UNDEFINED when BC is contradictory
+	2  Qualitative correspondence with common sense (> < directions)
+	3a If a conclusion can be reasoned out in more than one way, then every possible way must lead to the same result.
+	3b The robot is completely non-ideological.
+		The robot always takes to account ALL the evidence it has relevant to a question,
+		it does not arbitrarily ignore some of the information, basing its conclusion only on what remains.
+	3c The robot always represents equivalent states of knowledge by equivalent plausibility assignments.
+		That is, if in two problems the robot's state of knowledge is the same (except perhaps
+		for the labeling of the propositions), then it must assign the same plausibilities in both.
