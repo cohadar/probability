@@ -1,3 +1,8 @@
+# 2016-09-19
+Laplace-Bayes theory does not describe the inductive reasoning of a human brain,
+but of "infinitely educated" brain.
+So in the limiting case it is no better than Aristotelian Logic (although it does have wider applicability)
+
 # 2016-09-15
 Can't wait to see how Jaynes describes/generalizes the relation of probability with
 four laws of logic
