@@ -3,4 +3,6 @@ Books with worked out numerical examples:
 	Maximum Entropy in Action (Buck and Macaulay, 1991)
 	Data Analysis - A Bayesian Tutorial (Sivia, 1996)
 
-Logic for Mathematicians (Hamilton, 1988)
+Introduction to Logic (Copi, 1994)  - modern treatment of Aristotelian logic
+Logic for Mathematicians (Hamilton, 1988) - non Aristotelian with Godel incompletenes, computability, ...
+
