@@ -1,3 +1,6 @@
+# 2016-09-21
+Crunching along
+
 # 2016-09-19
 Laplace-Bayes theory does not describe the inductive reasoning of a human brain,
 but of "infinitely educated" brain.
