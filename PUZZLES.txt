@@ -1,0 +1,2 @@
+C: You have an urn with 10 balls inside, 3 are red, 7 are white, you draw balls one by one.
+Q: What is the probability of drawing a red ball on a third draw?
